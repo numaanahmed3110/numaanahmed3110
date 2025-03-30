@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <h1>Numaan Ahmed</h1>
+  <h3>Fullstack Developer | Building Web & Mobile Solutions</h3>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://numaanahmed.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numaanahmed3110)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numaanahmed3110/)
+</div>
 
-<!--
-**numaanahmed3110/numaanahmed3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🔥 Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+class FullstackDeveloper {
+  constructor() {
+    this.name = "Numaan Ahmed";
+    this.specializations = ["Web Development", "Mobile Apps", "Cloud Solutions"];
+    this.currentFocus = "Building scalable and intuitive digital experiences";
+  }
+  
+  solveProblem(challenge) {
+    return this.applyExpertise(challenge);
+  }
+}
+```
