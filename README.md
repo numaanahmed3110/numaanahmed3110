@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Numaan Ahmed</h1>
-  <h3>Fullstack Developer | Building Web & Mobile Solutions</h3>
+  <h3>Software Developer | Building Web & Mobile Solutions</h3>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://numaanahmed.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numaanahmed3110)
