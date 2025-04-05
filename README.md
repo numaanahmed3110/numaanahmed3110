@@ -77,8 +77,6 @@ class FullstackDeveloper {
 
   <br/><br/>
 
-  <img src="https://github-contribution-grid.vercel.app/api?username=numaanahmed3110&theme=radical&hide_border=true" alt="GitHub Contribution Grid" />
-
 </div>
 
 ## 🎓 Education
@@ -96,7 +94,6 @@ class FullstackDeveloper {
   </a>
 
   <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%26+collaborate+😊" alt="Typing SVG" />
-
+  
 </div>
 
