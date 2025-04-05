@@ -87,7 +87,6 @@ class FullstackDeveloper {
   🚀 *Actively building real-world projects, exploring full-stack development, and learning emerging technologies.*
 
 
----
 
 <div align="center">
   <h2>🚀 Let's Build Something Amazing Together!</h2>
@@ -97,8 +96,7 @@ class FullstackDeveloper {
   </a>
 
   <br/><br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%26+collaborate+😊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!; Feel+free+to+connect+%26+collaborate+😊" alt="Typing SVG" />
 
 </div>
 
