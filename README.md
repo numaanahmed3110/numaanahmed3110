@@ -9,6 +9,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Dark_☾_/_Light_☀️-gray?style=for-the-badge" alt="Theme toggle badge" />
+</p>
+
 <br>
 
 ## 🔥 Core Expertise
@@ -56,9 +60,12 @@ class FullstackDeveloper {
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+
 </div>
 
 ## 📊 GitHub Stats & Contributions
@@ -76,6 +83,11 @@ class FullstackDeveloper {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numaanahmed3110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
+  
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=numaanahmed3110&theme=radical&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</div>
+
 
 </div>
 
