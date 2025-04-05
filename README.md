@@ -102,10 +102,5 @@ class FullstackDeveloper {
   <h2>🚀 Let's Build Something Amazing Together!</h2>
   
   <a href="numaanahmed3110@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-
-  <br/><br/>
-  
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">  
 </div>
-
