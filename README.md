@@ -9,10 +9,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Dark_☾_/_Light_☀️-gray?style=for-the-badge" alt="Theme toggle badge" />
-</p>
-
 <br>
 
 ## 🔥 Core Expertise
@@ -97,7 +93,6 @@ class FullstackDeveloper {
   🚀 *Actively building real-world projects, exploring full-stack development, and learning emerging technologies.*
 
 
-<br/>
 <div align="center">
   <h2>🚀 Let's Build Something Amazing Together!</h2>
   
