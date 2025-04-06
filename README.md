@@ -28,7 +28,7 @@ class FullstackDeveloper {
 }
 ```
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Arsenal
 
 <div align="center">
   <!-- Languages -->
