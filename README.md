@@ -2,7 +2,7 @@
   <h1>Numaan Ahmed</h1>
   <h3>Passionate Problem Solver | Software Developer </h3>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://numaanahmed.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://numaanahmed.me)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numaanahmed3110)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numaanahmed3110/)
   [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white")](https://x.com/_numaanahmed_)
