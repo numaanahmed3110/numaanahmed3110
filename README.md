@@ -69,13 +69,13 @@ class FullstackDeveloper {
 
 </div>
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=numaanahmed3110&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=numaanahmed3110&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numaanahmed3110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numaanahmed3110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/><br/>
 </div>
 
