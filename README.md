@@ -74,19 +74,9 @@ class FullstackDeveloper {
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=numaanahmed3110&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=numaanahmed3110&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numaanahmed3110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numaanahmed3110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/><br/>
-  
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=numaanahmed3110&theme=radical&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </div>
 
 
