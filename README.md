@@ -1,6 +1,9 @@
 <div align="center">
-![Alt text](assets/Screenshot 2025-04-16 012525.png)
-  
+
+  <img src="assets/Screenshot 2025-04-16 012525.png" alt="Alt text" />
+
+
+
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://numaanahmed.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numaanahmed3110/)
   [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white")](https://x.com/_numaanahmed_)
